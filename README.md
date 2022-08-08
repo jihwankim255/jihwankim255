@@ -1,4 +1,4 @@
-<div>👋 Hi, I’m @jihwankim255, I’m interested in Reactjs.</div>
+<div>👋 Hi, I’m jihwan Kim, I’m interested in Reactjs.</div>
 <div>I’m currently learning reactjs and python.</div>
 <div>How to reach me : plasticat104@gmail.com</div>
 
