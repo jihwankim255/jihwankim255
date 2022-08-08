@@ -1,6 +1,6 @@
-👋 Hi, I’m @jihwankim255, I’m interested in Reactjs.
-I’m currently learning reactjs and python.
-How to reach me : plasticat104@gmail.com
+<div>👋 Hi, I’m @jihwankim255, I’m interested in Reactjs.</div>
+<div>I’m currently learning reactjs and python.</div>
+<div>How to reach me : plasticat104@gmail.com</div>
 
 
 <h3> My tech stack: </h3>
