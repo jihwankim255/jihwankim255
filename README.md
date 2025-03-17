@@ -1,5 +1,7 @@
 <h2 align="center">A passionate Web developer</h3>
 
+- [my resume](https://www.notion.so/ji-hwan-kim/f6908bd68b7e4a119653f47a941440e6?pvs=4) 
+
 - 🌱 I’m currently learning **Javascript, React.js, Next.js, Electron.js**
 
 - 👨‍💻 All of my projects are available at [Link](https://www.notion.so/582d83e9b24f41aba836f082a69c46c1?v=77e35a69f2da4931b4c0865f031da52a&pvs=12)
